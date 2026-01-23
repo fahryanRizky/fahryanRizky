@@ -4,7 +4,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:dc2626&height=200&section=header&text=Fahryan%20Rizky&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- Typing animation -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=DC2626&background=0F172A00&center=true&vCenter=true&width=700&lines=Fahryan+Rizky;Backend+Engineer;System+Architect;API+Specialist" />
+</p>
+
 <h2 align="center">👋 Halo, saya Fahryan Rizky</h2>
+<h3 align="center">🏴‍☠️ Backend Engineer | System Architect | API Specialist</h3>
 <h4 align="center">Backend & Fullstack Web Developer | REST API | System Design | Database</h4>
 
 <p align="center">
