@@ -37,5 +37,6 @@
 
 ### 🌐 Connect with me
 - GitHub: https://github.com/fahryanRizky
-- LinkedIn: (isi nanti)
+- LinkedIn: https://www.linkedin.com/in/fahryan-rizky-pratama-0a0505316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Instagram: https://www.instagram.com/fhrynnr?igsh=ZHdjd3dwOTlhY3Zq
 
