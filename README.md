@@ -201,6 +201,46 @@ Website portfolio modern dan responsif
 
 ---
 
+## ☠️ Terminal Boot Sequence
+
+```bash
+[BOOT] Initializing core systems...
+[OK] Loading backend modules
+[OK] Connecting database layer
+[OK] Securing API gateway
+[OK] Enabling authentication service
+[OK] System status: ONLINE
+> Welcome, traveler. You have entered Fahryan's domain.
+```
+
+---
+
+## 🧬 Matrix Rain (Cyber Background)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fahryanRizky&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📡 Live Developer Status
+
+<p align="center">
+  <img src="https://img.shields.io/badge/System-Online-16a34a?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-Stable-2563eb?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Hardened-dc2626?style=for-the-badge&logo=shield&logoColor=white" />
+</p>
+
+---
+
 > "Code is not just about making things work, but about building systems that last." 🚀
 
 <p align="center">
