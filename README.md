@@ -1,4 +1,35 @@
-<!-- GitHub Profile README - <span style="color:#00ff6a">Fahryan Rizky Pratama</span> (Backend / Fullstack Ultra Premium) -->
+<!-- GitHub Profile README - <!-- Adaptive Cyber Name System -->
+
+<style>
+.name-cyber {
+  font-family: 'Creepster', 'Fira Code', monospace;
+  font-size: 42px;
+  font-weight: 800;
+  color: #00aa55;
+  text-shadow: 0 0 4px #00aa55;
+  letter-spacing: 2px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .name-cyber {
+    color: #00ff6a;
+    text-shadow:
+      0 0 6px #00ff6a,
+      0 0 15px #00ff6a,
+      0 0 25px #ff0033,
+      0 0 45px #ff0033;
+  }
+}
+</style>
+
+<h1 align="center" class="name-cyber">Fahryan Rizky Pratama</h1>
+
+<!-- Adaptive Cyberpunk Banner -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahryanRizky/fahryanRizky/main/banner-dark.svg">
+  <img src="https://raw.githubusercontent.com/fahryanRizky/fahryanRizky/main/banner-light.svg" alt="Cyberpunk Banner" />
+</picture> (Backend / Fullstack Ultra Premium) -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:dc2626&height=200&section=header&text=Fahryan%20Rizky&fontSize=45&fontColor=ffffff&animation=fadeIn" />
@@ -58,7 +89,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Creepster&weight=700&size=26&pause=900&color=FF0033&background=00000000&center=true&vCenter=true&width=750&lines=Fahryan+Rizky;Backend+Engineer;System+Architect;API+Specialist" />
 </p>
 
-<h2 align="center">👋 Halo, saya <span style="color:#00ff6a">Fahryan Rizky P</h2>
+<h2 align="center">👋 Halo, saya <span style="color:#00ff6a">Fahryan Rizky Pratama</span></h2>
 <h3 align="center">🏴‍☠️ Backend Engineer | System Architect | API Specialist</h3>
 <h4 align="center">Backend & Fullstack Web Developer | REST API | System Design | Database</h4>
 
