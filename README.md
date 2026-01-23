@@ -86,7 +86,7 @@ Backend sistem toko online lengkap dengan:
 * pagination & filtering
 * role & permission
 
-**Tech:** Node.js / Laravel, MySQL, REST API
+**Tech:** Node.js, MySQL, REST API
 
 ---
 
