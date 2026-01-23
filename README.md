@@ -1,7 +1,7 @@
 <!-- GitHub Profile README - Fahryan Rizky (Backend / Fullstack Ultra Premium) -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Fahryan%20Rizky&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:dc2626&height=200&section=header&text=Fahryan%20Rizky&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h2 align="center">👋 Halo, saya Fahryan Rizky</h2>
@@ -86,7 +86,7 @@ Backend sistem toko online lengkap dengan:
 * pagination & filtering
 * role & permission
 
-**Tech:** Node.js, MySQL, REST API
+**Tech:** Node.js / Laravel, MySQL, REST API
 
 ---
 
@@ -149,5 +149,5 @@ Website portfolio modern dan responsif
 > "Code is not just about making things work, but about building systems that last." 🚀
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:dc2626&height=120&section=footer" />
 </p>
