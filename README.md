@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahryanRizky/fahryanRizky/main/banner-dark.svg">
-  <img src="https://raw.githubusercontent.com/fahryanRizky/fahryanRizky/main/banner-light.svg" alt="Cyberpunk Banner" />
+  <img src="https://raw.githubusercontent.com/fahryanRizky/fahryanRizky/main/banner-light.svg" />
 </picture>
 
 <p align="center">
