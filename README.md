@@ -1,4 +1,4 @@
-<!-- GitHub Profile README - Fahryan Rizky (Backend / Fullstack Ultra Premium) -->
+<!-- GitHub Profile README - <span style="color:#00ff6a">Fahryan Rizky Pratama</span> (Backend / Fullstack Ultra Premium) -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:dc2626&height=200&section=header&text=Fahryan%20Rizky&fontSize=45&fontColor=ffffff&animation=fadeIn" />
@@ -58,7 +58,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Creepster&weight=700&size=26&pause=900&color=FF0033&background=00000000&center=true&vCenter=true&width=750&lines=Fahryan+Rizky;Backend+Engineer;System+Architect;API+Specialist" />
 </p>
 
-<h2 align="center" style="font-bold">👋 Halo, saya Fahryan Rizky</h2>
+<h2 align="center">👋 Halo, saya <span style="color:#00ff6a">Fahryan Rizky P</h2>
 <h3 align="center">🏴‍☠️ Backend Engineer | System Architect | API Specialist</h3>
 <h4 align="center">Backend & Fullstack Web Developer | REST API | System Design | Database</h4>
 
