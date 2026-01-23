@@ -243,6 +243,61 @@ Website portfolio modern dan responsif
 
 > "Code is not just about making things work, but about building systems that last." 🚀
 
+---
+
+## 🩸 DEWA MODE SYSTEM VISUALS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahryanRizky&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahryanRizky&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahryanRizky&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🕷️ System Architecture Mindmap
+
+```text
+Client → API Gateway → Auth Service → Business Logic → Database Cluster
+                         ↓
+                    Cache Layer
+                         ↓
+                   Queue / Worker
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahryan-rizky-pratama-0a0505316" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Fahryan_Rizky-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/fhrynnr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@fhrynnr-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👁️ Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fahryanRizky&label=PROFILE+VIEWS&color=dc2626&style=for-the-badge" />
+</p>
+
+---
+
+## ⚠️ Final Message
+
+```diff
++ You are not visiting a profile.
++ You are observing a system architect in his natural habitat.
+```
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:dc2626&height=120&section=footer" />
 </p>
