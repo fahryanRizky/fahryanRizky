@@ -58,7 +58,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Creepster&weight=700&size=26&pause=900&color=FF0033&background=00000000&center=true&vCenter=true&width=750&lines=Fahryan+Rizky;Backend+Engineer;System+Architect;API+Specialist" />
 </p>
 
-<h2 align="center">👋 Halo, saya Fahryan Rizky</h2>
+<h2 align="center" style="font-bold">👋 Halo, saya Fahryan Rizky</h2>
 <h3 align="center">🏴‍☠️ Backend Engineer | System Architect | API Specialist</h3>
 <h4 align="center">Backend & Fullstack Web Developer | REST API | System Design | Database</h4>
 
