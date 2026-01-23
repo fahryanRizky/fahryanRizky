@@ -4,10 +4,58 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:dc2626&height=200&section=header&text=Fahryan%20Rizky&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- Cyberpunk animated grid + red particles (inline SVG banner overlay) -->
+
+<p align="center">
+<svg width="100%" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="50%" stop-color="#0b1a3a"/>
+      <stop offset="100%" stop-color="#7f1d1d"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e3a8a" stroke-width="0.6" opacity="0.6"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="160" fill="url(#bg)"/>
+  <rect width="1200" height="160" fill="url(#grid)" opacity="0.35"/>
+
+  <!-- moving red particles -->
+
+  <g fill="#ff1a1a" opacity="0.9">
+    <circle r="2" cx="100" cy="40">
+      <animate attributeName="cx" from="-50" to="1250" dur="6s" repeatCount="indefinite" />
+    </circle>
+    <circle r="1.8" cx="300" cy="90">
+      <animate attributeName="cx" from="-80" to="1300" dur="4.5s" repeatCount="indefinite" />
+    </circle>
+    <circle r="2.2" cx="600" cy="60">
+      <animate attributeName="cx" from="-120" to="1400" dur="7s" repeatCount="indefinite" />
+    </circle>
+    <circle r="1.5" cx="900" cy="110">
+      <animate attributeName="cx" from="-100" to="1350" dur="5s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- glitch lines -->
+
+  <g stroke="#dc2626" stroke-width="2" opacity="0.6">
+    <line x1="0" y1="30" x2="1200" y2="30">
+      <animate attributeName="opacity" values="0.1;0.8;0.2;0.9;0.3" dur="2s" repeatCount="indefinite" />
+    </line>
+    <line x1="0" y1="120" x2="1200" y2="120">
+      <animate attributeName="opacity" values="0.9;0.2;0.7;0.3;0.8" dur="1.5s" repeatCount="indefinite" />
+    </line>
+  </g>
+</svg>
+</p>
+
 <!-- Typing animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=DC2626&background=0F172A00&center=true&vCenter=true&width=700&lines=Fahryan+Rizky;Backend+Engineer;System+Architect;API+Specialist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Creepster&weight=700&size=26&pause=900&color=FF0033&background=00000000&center=true&vCenter=true&width=750&lines=Fahryan+Rizky;Backend+Engineer;System+Architect;API+Specialist" />
 </p>
 
 <h2 align="center">👋 Halo, saya Fahryan Rizky</h2>
