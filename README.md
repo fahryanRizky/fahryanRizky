@@ -1,27 +1,5 @@
 <!-- GitHub Profile README - <!-- Adaptive Cyber Name System -->
 
-<style>
-.name-cyber {
-  font-family: 'Creepster', 'Fira Code', monospace;
-  font-size: 42px;
-  font-weight: 800;
-  color: #00aa55;
-  text-shadow: 0 0 4px #00aa55;
-  letter-spacing: 2px;
-}
-
-@media (prefers-color-scheme: dark) {
-  .name-cyber {
-    color: #00ff6a;
-    text-shadow:
-      0 0 6px #00ff6a,
-      0 0 15px #00ff6a,
-      0 0 25px #ff0033,
-      0 0 45px #ff0033;
-  }
-}
-</style>
-
 <h1 align="center" class="name-cyber">Fahryan Rizky Pratama</h1>
 
 <!-- Adaptive Cyberpunk Banner -->
