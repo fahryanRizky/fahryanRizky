@@ -1,18 +1,3 @@
-<!-- GitHub Profile README - <!-- Adaptive Cyber Name System -->
-
-<h1 align="center" class="name-cyber">Fahryan Rizky Pratama</h1>
-
-<!-- Adaptive Cyberpunk Banner -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fahryanRizky/fahryanRizky/main/banner-dark.svg">
-  <img src="https://raw.githubusercontent.com/fahryanRizky/fahryanRizky/main/banner-light.svg" alt="Cyberpunk Banner" />
-</picture> (Backend / Fullstack Ultra Premium) -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:dc2626&height=200&section=header&text=Fahryan%20Rizky&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
-
 <!-- Cyberpunk animated grid + red particles (inline SVG banner overlay) -->
 
 <p align="center">
