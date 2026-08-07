@@ -198,8 +198,6 @@ Website portfolio modern dan responsif
 ## 🤝 Kontak & Sosial
 
 * GitHub: [https://github.com/fahryanRizky](https://github.com/fahryanRizky)
-* LinkedIn: (isi nanti)
-* Email: (isi nanti)
 
 ---
 
