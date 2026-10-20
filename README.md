@@ -6,6 +6,8 @@ Saya adalah seorang *Fullstack Developer* dengan fokus utama pada pengembangan *
 
 Saat ini saya terbuka untuk peluang **Full-time**, **Freelance**, atau **Kolaborasi Project**.
 
+🔗 **Portfolio Website:** [https://portofolio-fahryan-rizky-pratama.lovable.app](https://portofolio-fahryan-rizky-pratama.lovable.app)
+
 ---
 
 ## 🛠️ Tech Stack
@@ -62,6 +64,6 @@ Sistem manajemen pengetahuan perusahaan untuk menyimpan, mencari, dan mengakses 
 
 ## 📫 Connect with Me
 
+- **Portfolio:** [portofolio-fahryan-rizky-pratama.lovable.app](https://portofolio-fahryan-rizky-pratama.lovable.app)
 - **LinkedIn:** [fahryan-rizky-pratama](https://www.linkedin.com/in/fahryan-rizky-pratama/)
 - **Email:** fahryanrizky07@gmail.com
-- **Portfolio Website:** [https://tracking-sistem-production.up.railway.app/login](https://tracking-sistem-production.up.railway.app/login) *(Ganti dengan link web portofolio Fahryan Rizky jika sudah di-deploy)*
